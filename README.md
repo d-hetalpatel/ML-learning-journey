@@ -1,10 +1,10 @@
-# 🧠 Support Vector Machine (SVM) with Scikit-Learn
+# Support Vector Machine (SVM) with Scikit-Learn
 
 This repository contains Jupyter notebooks demonstrating the use of **Support Vector Machines (SVM)** for both **classification** and **regression** tasks.
 
 ---
 
-## 📂 Notebooks
+## Notebooks
 
 1. **SVM_Classification.ipynb**  
    - Dataset: **Breast Cancer (Scikit-learn)**  
