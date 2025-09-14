@@ -5,9 +5,9 @@ This repo documents my progress in learning, experimenting, and applying ML tech
 
 ---
 
-## 📂 Projects  
+##  Projects  
 
-### 1️⃣ 🫀 Heart Disease EDA  
+### Heart Disease EDA  
 - **Goal**: Perform Exploratory Data Analysis (EDA) on a heart disease dataset.  
 - **Highlights**:  
   - Data cleaning, preprocessing, and visualization  
