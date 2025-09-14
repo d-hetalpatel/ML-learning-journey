@@ -1,43 +1,55 @@
-# Support Vector Machine (SVM) with Scikit-Learn
+# 🚀 Machine Learning Learning Journey  
 
-This repository contains Jupyter notebooks demonstrating the use of **Support Vector Machines (SVM)** for both **classification** and **regression** tasks.
-
----
-
-## Notebooks
-
-1. **SVM_Classification.ipynb**  
-   - Dataset: **Breast Cancer (Scikit-learn)**  
-   - Task: Classify tumors as **benign (1)** or **malignant (0)**  
-   - Techniques:  
-     - GridSearchCV for hyperparameter tuning  
-     - Confusion Matrix visualization  
-     - Classification Report (precision, recall, F1-score)  
-
-2. **SVM_Regression.ipynb**  
-   - Dataset: **California Housing (Scikit-learn)**  
-   - Task: Predict **median house values**  
-   - Techniques:  
-     - Standardization of features (StandardScaler)  
-     - GridSearchCV for hyperparameter tuning  
-     - Evaluation with **Root Mean Squared Error (RMSE)**  
-     - Actual vs Predicted scatter plot  
+Welcome to my **Machine Learning Learning Journey** repository!  
+This repo documents my progress in learning, experimenting, and applying ML techniques to real-world datasets. Each folder contains a separate project with its own README and notebook/code files.  
 
 ---
 
-## Key Concepts
+## 📂 Projects  
 
-- **Support Vector Machine (SVM):** Supervised learning algorithm that finds an optimal hyperplane for classification or regression.  
-- **Kernel Trick:** Allows handling of non-linear data by projecting it into higher dimensions (e.g., RBF kernel).  
-- **GridSearchCV:** Automated hyperparameter tuning using cross-validation.  
+### 1️⃣ 🫀 Heart Disease EDA  
+- **Goal**: Perform Exploratory Data Analysis (EDA) on a heart disease dataset.  
+- **Highlights**:  
+  - Data cleaning, preprocessing, and visualization  
+  - Risk factor identification (cholesterol, blood pressure, diabetes, lifestyle)  
+  - Correlation heatmap & insights  
+- **Future Work**: Build ML models for classification.  
+
+---
+
+###  Earthquake Prediction & Analysis  
+- **Goal**: Predict earthquake magnitude and aftershock occurrence using ML.  
+- **Highlights**:  
+  - Regression (predict magnitude)  
+  - Classification (predict aftershock occurrence)  
+  - Clustering (KMeans & DBSCAN for seismic pattern analysis)  
+  - Interactive **Streamlit dashboard** for visualization  
+- **Results**:  
+  - KMeans performed better for structured clusters  
+  - DBSCAN gave valuable spatial insights  
+
 
 ---
 
-## Results Summary
-
-| Task           | Metric                 | Performance (approx.) |
-|----------------|------------------------|------------------------|
-| Classification | Accuracy               | ~90–95%                |
-| Regression     | RMSE (lower is better) | Reasonable (varies)    |
+##  Tools & Libraries  
+- Python   
+- scikit-learn  
+- pandas, numpy  
+- matplotlib, seaborn, plotly   
+- Streamlit   
 
 ---
+
+##  My Learning Goals  
+- Strengthen ML foundations through hands-on projects  
+- Learn both **EDA** and **Model Building**  
+- Practice explaining ML concepts in simple words  
+- Build a portfolio of projects for GitHub showcase  
+
+---
+
+##  About This Repo  
+This repository is part of my **continuous learning path** in Machine Learning.  
+Every project here represents a new concept or technique I’ve learned and applied.  
+
+Stay tuned as I keep adding more projects! ✨  
