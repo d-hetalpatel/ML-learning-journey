@@ -41,9 +41,3 @@ This repository contains Jupyter notebooks demonstrating the use of **Support Ve
 | Regression     | RMSE (lower is better) | Reasonable (varies)    |
 
 ---
-
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/SVM-Classification-Regression.git
