@@ -5,32 +5,6 @@ This repo documents my progress in learning, experimenting, and applying ML tech
 
 ---
 
-##  Projects  
-
-### Heart Disease EDA  
-- **Goal**: Perform Exploratory Data Analysis (EDA) on a heart disease dataset.  
-- **Highlights**:  
-  - Data cleaning, preprocessing, and visualization  
-  - Risk factor identification (cholesterol, blood pressure, diabetes, lifestyle)  
-  - Correlation heatmap & insights  
-- **Future Work**: Build ML models for classification.  
-
----
-
-###  Earthquake Prediction & Analysis  
-- **Goal**: Predict earthquake magnitude and aftershock occurrence using ML.  
-- **Highlights**:  
-  - Regression (predict magnitude)  
-  - Classification (predict aftershock occurrence)  
-  - Clustering (KMeans & DBSCAN for seismic pattern analysis)  
-  - Interactive **Streamlit dashboard** for visualization  
-- **Results**:  
-  - KMeans performed better for structured clusters  
-  - DBSCAN gave valuable spatial insights  
-
-
----
-
 ##  Tools & Libraries  
 - Python   
 - scikit-learn  
